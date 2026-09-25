@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/tagwright
+    about: Do not open a public issue for a security problem. Use the affected repository's Security tab and choose "Report a vulnerability".
+  - name: Browse the tagwright tools
+    url: https://github.com/tagwright
+    about: The full set of suite tools, each in its own repository.
